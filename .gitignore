@@ -1,6 +1,7 @@
 *.log
 *.bak
 *.pyc
+*.wpu
 
 # secret configuration files
 *_secret.*
