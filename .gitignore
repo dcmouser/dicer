@@ -1,0 +1,13 @@
+*.log
+*.bak
+*.pyc
+
+# secret configuration files
+*_secret.*
+
+Private
+PRIVATE
+*.sqlite
+
+debuglog.txt
+debugout.txt
